@@ -22,5 +22,5 @@ Theese 3rd party dependencies were used in app. Remember to Pod Install before r
 
  
 To create a nice layout i used **TRMosaicLayout**. However i discovered a issue (it was not scrolling till the end, when a big tile is at the bottom), i fetched it and made some edits - Also created a [Pull Request](https://github.com/vinnyoodles/mosaic-layout/pull/18) for the fix.
-Because those changes isn't merged yet, this package is included in the project, and not through CocoaPods 
+Because those changes isn't merged yet, therefore **TRMosaicLayout** package is included in the project and not through CocoaPods 
  
