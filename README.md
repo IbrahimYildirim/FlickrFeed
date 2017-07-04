@@ -7,7 +7,7 @@ iOS App showing Flickr's Feed. Made as a **#CodingChallenge** for **House Of Cod
 
 
 ### 3rd Party Libraries used
-3rd party dependencies used in app. Remember to Pod Install before running project.
+Theese 3rd party dependencies were used in app. Remember to Pod Install before running project.
 
 * Alamofire
   * Used for networking
